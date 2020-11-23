@@ -34,3 +34,4 @@ Project is: _in progress_
 
 ## Inspiration
 This is a guided project that practices React.js and API requests from the Web Developement Career Path on [Codecademy](https://www.codecademy.com/learn).
+HTML templates and CSS were provided.
