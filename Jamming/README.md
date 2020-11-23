@@ -20,8 +20,6 @@ The original app from Codecademy: [Jamming](http://jammming.s3-website-us-east-1
 * Rename playlist or leave default name
 * Save playlist into Spotify account
 
-
-
 To-do list:
 * Potential Features (examples from Codecademy):
     * Include preview samples for each track
@@ -35,4 +33,4 @@ To-do list:
 Project is: _in progress_
 
 ## Inspiration
-This is a guided project that practices React.js and API requests from the Computer Science Carreer Path on [Codecademy](https://www.codecademy.com/learn).
+This is a guided project that practices React.js and API requests from the Web Developement Career Path on [Codecademy](https://www.codecademy.com/learn).
