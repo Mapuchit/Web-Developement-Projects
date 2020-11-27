@@ -19,9 +19,6 @@
 * Use separate "it" blocks for twsting bounds to make test suit maintainable
 * Use assert methods for verification
 
-> The result of running the test
-![Screenshot](rooster%20regulation/output.PNG?raw=true)
-
 
 ## Status
 Project is: _finished_
