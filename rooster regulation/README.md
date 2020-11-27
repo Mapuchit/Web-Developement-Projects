@@ -20,7 +20,7 @@
 * Use assert methods for verification
 
 > The result of running the test
-![Screenshot](rooster%20regulation/output.png?raw=true)
+![Screenshot](rooster%20regulation/output.PNG?raw=true)
 
 
 ## Status
