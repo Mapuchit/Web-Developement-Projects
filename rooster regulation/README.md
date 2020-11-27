@@ -20,7 +20,7 @@
 * Use assert methods for verification
 
 > The result of running the test
-![Screenshot](https://github.com/Mapuchit/Web-Developement-Projects/tree/master/rooster%20regulation/output.png)
+![Screenshot](rooster%20regulation/output.png?raw=true)
 
 
 ## Status
