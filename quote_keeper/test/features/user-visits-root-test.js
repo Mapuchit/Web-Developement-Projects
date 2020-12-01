@@ -26,12 +26,17 @@ describe('User visits root', () => {
 
             // Verify
             // that the quote has been displayed in the test browser
-            assert.include(browser.getText('#quote'), quote);
-            assert.include(browser.getText('#attributed'), attributed);
-            assert.include(browser.getText('#source'), source);
+            assert.include(browser.getText('#quotes'), quote);
+            assert.include(browser.getText('#quotes'), attributed);
+            assert.include(browser.getText('#quotes'), source);
 
         });
 
     });
 
 });
+
+// These tests are solely at the feature level and therefore unable to pass.
+// We can only test the existance of the proper HTML elements here.
+// We have to get down to the server level to test if the quote was saved properly..
+
