@@ -20,7 +20,7 @@ It can be viewed at: [Trivia Card](http://careful-letters.surge.sh/)
 * An option to reset the quiz anytime and make the wrong answers reappear
 * When a question is answered correctly a button appears that allows moving to the next question
 
-To-do list:
+## To-do list:
     * Use arrays to set up a quiz with multiple questions (only 2 questions at the moment)
     * Use handlebars to load new questions
 
