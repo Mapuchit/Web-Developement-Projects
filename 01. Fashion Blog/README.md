@@ -5,11 +5,13 @@
 
 ## General Info
 * A static HTML only website.
+* Deployed with [Surge](https://surge.sh/)
 * URL: http://worried-grain.surge.sh/
 
 
 ## Technologies
 * HTML5
+* surge – single command web publishing. (v0.21.7)
 
 
 ## Features
