@@ -16,6 +16,9 @@
 * surge – single command web publishing. (v0.21.7)
 
 
+![Sample screenshot](img.PNG?raw=true "Sample screenshot")
+
+
 ## Features
 * Different input types to create a funny story:
     * text, number, radio, select, datalist, textarea
